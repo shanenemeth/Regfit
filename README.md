@@ -5,3 +5,5 @@
 * Plotted RSS and adjusted R2 for number of variables 
 * Used max function to determine which combination of variabels produced highest adjusted R2
 * Identified model 11 as the best fit for the data, using adjusted r squared as the criteria 
+
+![](https://github.com/shanenemeth/Regfit/blob/main/regfit.png)
