@@ -4,6 +4,6 @@
 * Used best subset selection regression technique to produce the best model for predicting player Salary 
 * Plotted RSS and adjusted R2 for number of variables 
 * Used max function to determine which combination of variables produced highest adjusted R2
-* Identified model 11 as the best fit for the data, using adjusted R2 as the criteria 
+* Identified model 11 as the best fit for the data, using adjusted R2 and RSS as the criteria 
 
 ![](https://github.com/shanenemeth/Regfit/blob/main/regfit.png)
